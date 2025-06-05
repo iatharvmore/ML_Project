@@ -1,12 +1,10 @@
-numpy
 pandas
-scikit-learn
-matplotlib
+numpy
 seaborn
-jupyter
-ipykernel
-pytest
+matplotlib
+scikit-learn
 catboost
+xgboost
+Flask
 
--e .
-# -e . is used to install the package in editable mode
+#-e .
